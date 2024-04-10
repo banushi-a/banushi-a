@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome! I'm Alton (L - Tone) 
+
+- 🐶 I'm currently working on `cooper`, check it out in my pins!
+- 🏦 I'm going to be joining TD Securities this summer as a Software Engineering Intern
+- 📬 You can reach me at [altonbanushi@icloud.com](mailto:altonbanushi@icloud.com)
 
 <!--
 **banushi-a/banushi-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
