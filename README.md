@@ -3,7 +3,7 @@
 - 🔨 I'm currently working on
   - 🐶 `cooper`, check it out in my pins!
   - ❤️ `Ilir's Giving Heart Foundation` website, a non-profit
-- 🏦 I'm going to be joining TD Securities this summer as a Software Engineering Intern
+- 🏦 I'm currently working at TD Securities this summer as a Software Engineering Intern
 - 🎲 Starting in the fall, I'm joining Nomura as Risk Management Intern \[Model Validation\]
 - 📬 You can reach me at [altonbanushi@icloud.com](mailto:altonbanushi@icloud.com)
 
