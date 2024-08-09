@@ -3,8 +3,10 @@
 - 🔨 I'm currently working on
   - 🐶 `cooper`, check it out in my pins!
   - ❤️ `Ilir's Giving Heart Foundation` website, a non-profit
-- 🏦 I'm currently working at TD Securities this summer as a Software Engineering Intern
-- 🎲 Starting in the fall, I'm joining Nomura as Risk Management Intern \[Model Validation\]
+- 🎲 I'm currently working at Nomura as Risk Management Intern \[Risk Methedology Group\]
+- In the past, I've been at:
+  - 🗽 TD Securities - Software Engineering Intern
+  - 🏦 UBS - Quantiative Developer Co-Op
 - 📬 You can reach me at [altonbanushi@icloud.com](mailto:altonbanushi@icloud.com)
 
 <!--
