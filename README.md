@@ -6,7 +6,7 @@
 - 🎲 I'm currently working at Nomura as Risk Management Intern \[Risk Methedology Group\]
 - In the past, I've been at:
   - 🗽 TD Securities - Software Engineering Intern
-  - 🏦 UBS - Quantiative Developer Co-Op
+  - 🏦 UBS - Quantitative Developer Co-Op
 - 📬 You can reach me at [altonbanushi@icloud.com](mailto:altonbanushi@icloud.com)
 
 <!--
