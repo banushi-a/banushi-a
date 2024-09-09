@@ -3,7 +3,7 @@
 - 🔨 I'm currently working on
   - 🐶 `cooper`, check it out in my pins!
   - ❤️ `Ilir's Giving Heart Foundation` website, a non-profit
-- 🎲 I'm currently working at Nomura as Risk Management Co-Op \[Risk Methedology Group\]
+- 🎲 I'm currently working at Nomura as Risk Analyst Co-Op \[Risk Methedology Group\]
 - In the past, I've been at:
   - 🗽 TD Securities - Software Engineering Intern
   - 🏦 UBS - Quantitative Developer Co-Op
