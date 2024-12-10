@@ -3,10 +3,11 @@
 - 🔨 I'm currently working on
   - 🐶 `cooper`, check it out in my pins!
   - ❤️ `Ilir's Giving Heart Foundation` website, a non-profit
-- 🎲 I'm currently working at Nomura as Risk Developer Co-Op \[Risk Methedology Group\]
+- 🏫 I'm finishing up my BSc in Computer Science and Mathematics at Northeastern University
 - In the past, I've been at:
   - 🗽 TD Securities - Software Engineering Intern
   - 🏦 UBS - Quantitative Developer Co-Op
+  - 🎲 Nomura - Risk Developer Co-op
 - 📬 You can reach me at [altonbanushi@icloud.com](mailto:altonbanushi@icloud.com)
 
 <!--
