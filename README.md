@@ -9,7 +9,7 @@
 - In the past, I've been at:
   - 🗽 TD Securities - Software Engineering Intern
   - 🏦 UBS - Quantitative Developer Co-Op
-  - 🎲 Nomura - Risk Developer Co-op
+  - 🎲 Nomura - Quantitative Risk Developer Co-op
 - 📬 You can reach me at [altonbanushi@icloud.com](mailto:altonbanushi@icloud.com)
 
 <!--
