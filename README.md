@@ -1,9 +1,9 @@
 ### Welcome! I'm Alton (L - Tone) 
 
-- 🔨 I'm currently working on
+- 🔨 Some projects I've worked on:
   - 🐶 `cooper`, check it out in my pins!
   - ❤️ `Ilir's Giving Heart Foundation` website, a non-profit
-- 🏫 I'm finishing up my BSc in Computer Science and Mathematics at Northeastern University
+- 🏫 I finishing my BSc in Computer Science and Mathematics at Northeastern University
   - 📝 I've been a TA for CS 2500 (Fundies!) and CS 3000 (Algo)
 - In the past, I've been at:
   - 🗽 TD Securities - Software Engineering Intern
