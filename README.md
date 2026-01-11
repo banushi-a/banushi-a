@@ -5,7 +5,7 @@
   - ❤️ `Ilir's Giving Heart Foundation` website, a non-profit
 - 🏫 I finished my BSc in Computer Science and Mathematics at Northeastern University
   - 📝 I've been a TA for CS 2500 (Fundies!) and CS 3000 (Algo)
-- I'm currently a Software Developer at Epic
+- I'm currently a Software Developer at Epic 🏥
 - In the past, I've been at:
   - 🗽 TD Securities - Software Engineering Intern
   - 🏦 UBS - Quantitative Developer Co-Op
